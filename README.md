@@ -1,6 +1,6 @@
 ## Olá! I am Juliana :)
 - 👀 I’m student of Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Python, SQL, Data Science, R, Power BI
+- 🌱 I’m currently learning Python, SQL, Data Science, Power BI
 - 💼 I’m an intern at Itaú BBA!
 - 😁 Pronouns: She/Her
 
